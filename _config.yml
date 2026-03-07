@@ -16,7 +16,7 @@ timezone:
 
 title: KLD Blog # the main title
 
-tagline: Various thoughts and rants # it will display as the subtitle
+tagline: Who gives a shit, really? # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   My comments on AI, Vibe-coding, Scrum Mastering, the downfall of my bladder and general grumpiness about the world around me.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/500-kld_logo_konly.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
