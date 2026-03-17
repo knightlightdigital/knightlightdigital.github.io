@@ -1,4 +1,17 @@
-# Blog Setup Complete (finally)
+---
+title: "Blogstuff"
+date: 2026-03-16
+categories: [Sausage]
+tags: [sausage, wtfc]
+# description: "Short description for SEO and previews"
+# image: /path/to/featured-image.png
+# pin: false          # Pin to top of home page
+# published: true     # Set to false for drafts
+# math: true          # Enable math rendering (KaTeX)
+# mermaid: true       # Enable Mermaid diagrams
+# toc: true           # Show table of contents
+# comments: true      # Enable comments (if configured)
+---
 
 It's 3am. We've had some wicked storms roll through. And I've been arguing with the AI for a couple of hours about a database setup. But the blog is done. For a guy who doesn't live in Github every day, Pages can present some congnitive challenges. Luckily the AI didn't argue with me over the fix.
 
